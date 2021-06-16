@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yum_PractiseCheck", "Yum_PractiseCheck\Yum_PractiseCheck.csproj", "{74F08109-6FC2-4BE4-AA0C-0DF7BDE7EDE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F08109-6FC2-4BE4-AA0C-0DF7BDE7EDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F08109-6FC2-4BE4-AA0C-0DF7BDE7EDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F08109-6FC2-4BE4-AA0C-0DF7BDE7EDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F08109-6FC2-4BE4-AA0C-0DF7BDE7EDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD2EFAE-C9F2-4E02-8917-64B7A6E580F9}
+	EndGlobalSection
+EndGlobal
